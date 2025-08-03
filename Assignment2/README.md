@@ -2,7 +2,7 @@
 
 ### Results Visualization
 
-![Bandit Algorithm Performance](.\Lec2\Assignement\src\mab_comparison.png)
+![Bandit Algorithm Performance](.Assignment2\Assignement\mab_comparison.png)
 
 ### Result Description
 
